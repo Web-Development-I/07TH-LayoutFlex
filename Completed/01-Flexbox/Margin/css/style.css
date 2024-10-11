@@ -8,7 +8,7 @@ body{
 ul{
   list-style-type: none;
   background-color: lightgray;
-  display: flex;
+  display: block flex;
   padding: 5px;
 }
 li{
