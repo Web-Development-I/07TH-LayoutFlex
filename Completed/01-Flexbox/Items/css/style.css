@@ -18,7 +18,7 @@ div > div {
 /* de flexcontainer */
 h1+div {
   border: 2px solid black;
-  display: flex;
+  display: block flex;
 }
 
 /* Flex items */
